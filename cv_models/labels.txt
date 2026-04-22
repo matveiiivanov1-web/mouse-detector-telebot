@@ -1,0 +1,5 @@
+0 gaming mouse
+1 hardcore gaming mouse
+2 average mouse
+3 mouse good for work
+4 unpractical mouse
