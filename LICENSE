@@ -1,0 +1,1 @@
+Create a file .env in VS code or any platform and there write TG_API_TOKEN = your token and then go to file main.py and run it then go to your telegram bot and it should work
